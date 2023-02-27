@@ -1,2 +1,3 @@
-# Dinner-Master
-Project Based on Omnifood
+# Omnifood
+
+Learner Project
