@@ -69,10 +69,10 @@ body {
 
 .grid {
   display: grid;
-  align-items: center;
   column-gap: 6.4rem;
   row-gap: 9.6rem;
-  grid-template-columns: repeat(2, 1fr);
+
+  margin-bottom: 9.6rem;
 }
 
 .grid--2-cols {
